@@ -1,1 +1,1 @@
-# Fun-o-ackley---Busca_sequencial_e_randomica
+# ackley-Function---Busca_sequencial_e_randomica
